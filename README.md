@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,24&section=header&text=Marwento&fontSize=48&fontAlign=50&fontAlignY=45&desc=JavaScript+Developer+%7C+Scripting+%26+Interactivity&descSize=19&descAlign=50&descAlignY=65" alt="Marwento Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,24&section=header&text=Marwento&fontSize=48&fontAlign=50&fontAlignY=45&desc=JavaScript+Developer+%7C+Scripting+and+Interactivity&descSize=19&descAlign=50&descAlignY=65" alt="Marwento Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Marwento 👋</h1>
@@ -12,13 +12,13 @@
   <a href="https://github.com/marwento07">
     <img src="https://img.shields.io/badge/GitHub-marwento07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mar-wento-3b9912413?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/mar-wento-3b9912413" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Marwento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:marwento03@gmail.com">
     <img src="https://img.shields.io/badge/Email-marwento03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/marwento?stkn=MWRyYjExeWpxbjE0dQ==" target="_blank">
+  <a href="https://www.instagram.com/marwento/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@marwento-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
